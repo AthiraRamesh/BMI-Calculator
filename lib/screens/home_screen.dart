@@ -100,7 +100,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       activeColor: Colors.blueGrey,
                       buttonWidget: const Icon(
                         Icons.arrow_forward_ios_rounded,
-                        color: Colors.amber,
+                        color: Colors.black,
                       ),
                       buttonText: "CALCULATE"),
                 )

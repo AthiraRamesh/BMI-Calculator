@@ -12,7 +12,7 @@ class GenderWidget extends StatefulWidget {
 class _GenderWidgetState extends State<GenderWidget> {
   int _gender = 0;
   final ChoiceChip3DStyle selectedStyle = ChoiceChip3DStyle(
-      topColor: Colors.amber,
+      topColor: Color.fromARGB(255, 157, 179, 191),
       backColor: Colors.grey,
       borderRadius: BorderRadius.circular(20));
 

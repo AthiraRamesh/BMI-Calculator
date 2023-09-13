@@ -47,8 +47,8 @@ dev_dependencies:
     sdk: flutter
 
 flutter_native_splash:
-  image: assets/images/Splash.png
-  color: "#6B7A8F"
+  image: assets/images/bmi-logo.png
+  color: "#ffffff"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -70,10 +70,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/man_icon.png
-    - assets/images/woman_icon.png
-    - assets/images/man.png
-    - assets/images/woman.png
+    - assets/images/
+    
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
